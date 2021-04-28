@@ -1,0 +1,2 @@
+ncu -f -o profile --section MemoryWorkloadAnalysis --profile-from-start off python add.py
+ncu-ui
